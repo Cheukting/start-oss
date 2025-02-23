@@ -1,6 +1,6 @@
 # OSS contribution
 
-Start your OSS contribution journey here.
+[Start your OSS contribution journey here.](https://cheukting.github.io/start-oss/)
 
 👋 Welcome to OSS contribution workshop, here you can:
 
