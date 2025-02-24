@@ -1,11 +1,9 @@
 ---
 author: "Cheuk"
 title: "PyO3"
-date: "2025-02-01"
+date: "2025-02-01" #TODAY
 description: "PyO3"
 tags: ["rust", "python"]
-ShowToc: false
-ShowBreadCrumbs: false
 ---
 
 PyO3 is a Rust framework that let users compile a Python module using Rust code.
