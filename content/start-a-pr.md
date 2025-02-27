@@ -45,6 +45,8 @@ Good question! You may not be using pull request at work because everyone in the
 
 Remember we talked about makeing a `fork`? That's right, at the start of our contribution, we will make a `fork` of the original repo to one that is under our account. Technically, you can do anythink you like (with the license being the limitation) with your own version, however, since you want to contribute back (or sometime called upstreaming) to the original repo, after you made your changes, you will send a pull request to the original repo from the version under your account. 
 
+![why pull requests are needed](/images/why_pull_request.png#center)
+
 Once the maintainer received your pull request, they can review your changes and may sometimes request further changes. This is your opportunity to work with others in OSS and learn a lot from them. When the maintainers are happy with your changes, they will accept the changes and merge it into the original repo. Congratulations! You have now contributed to this open source project!
 
 ---
@@ -56,6 +58,8 @@ I am sure now you are excited to start making a pull request. But before you sea
 ### Step 1 - frok this project
 
 Assuming that you already have a GitHub account (you can [register one](https://github.com/) for free), go to [our GitHub repo](https://github.com/Cheukting/start-oss) and make a `fork`.
+
+![create a fork on GitHub](/images/create_a_fork.png#center)
 
 ### Step 2 - clone to your machine
 
@@ -201,7 +205,9 @@ Now that your changes are committed locally, you need to push them to your forke
 
 ### Step 7 - create pull request
 
-Once the changes are pushed, you can proceed to create a pull request for the original repository using GitHub's interface. If you now go to `https://github.com/YOUR-USERNAME/start-oss` (Replace `YOUR-USERNAME` with your GitHub username.) You will see a notification by GitHub to create a pull request.
+Once the changes are pushed, you can proceed to create a pull request for the original repository using GitHub's interface. If you now go to `https://github.com/YOUR-USERNAME/start-oss` (Replace `YOUR-USERNAME` with your GitHub username.) You will can press the contribute button GitHub to create a pull request.
+
+![create a PR on GitHub](/images/make_a_pull_request.png#center)
 
 If you are in the workshop, feel free to give your mentor/ instructor a nudge so they can have a look at your pull request.
 
